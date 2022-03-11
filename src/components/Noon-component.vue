@@ -1,6 +1,6 @@
 <template>
     <div @click="playNote">
-        <h1>placeholder for noon image</h1>
+        <img alt="Noon Trophy" src="../assets/noonimage.jpg"/>
     </div>
 </template>
 
